@@ -4,3 +4,5 @@ function newFunction() {
        console.log('This should trigger a linter error.');
    }
 }
+let x = 5;
+x++;
