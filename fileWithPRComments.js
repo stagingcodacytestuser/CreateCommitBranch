@@ -6,3 +6,4 @@ function newFunction() {
 }
 let x = 5;
 x++;
+var unusedVar = 123;
